@@ -1,0 +1,27 @@
+h2 {
+  color: red;
+}
+
+p a {
+  color: tomato;
+}
+
+#introducao {
+  color: purple;
+}
+
+.codigo .design {
+  color: green;
+}
+
+.azul {
+  color: blue;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.grande {
+  font-size: 32px;
+}
