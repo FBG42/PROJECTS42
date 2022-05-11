@@ -1,0 +1,27 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+.adicionar {
+    padding: 16px;
+
+    width: 84px;
+    height: 32px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numero {
+    display: block;
+    padding: 16px;
+}
