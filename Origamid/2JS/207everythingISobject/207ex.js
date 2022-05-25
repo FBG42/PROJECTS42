@@ -18,9 +18,9 @@ var main = document.querySelector("#main");
 // busque na web um objeto (método) capaz de interagir com o clipboard,
 // clipboard é a parte do seu computador que lida com o CTRL + C e CTRL + V
 
-var texto =
-  "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, repudiandae aliquid. Et molestias minus facere dolores obcaecati quod architecto, aliquid, itaque quaerat ullam, sapiente voluptate ducimus. Et, in assumenda? Voluptas";
+var texto = document.querySelector('.texto')
+
 
 btn.addEventListener("click", function copyOnClick() {
-  navigator.clipboard.writeText(texto);
+  navigator.clipboard.writeText(conteudo);
 });
