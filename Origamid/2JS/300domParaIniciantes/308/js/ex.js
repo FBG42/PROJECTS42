@@ -1,44 +1,23 @@
-// Quando o usuário clicar nos links internos do site,
-// adicione a classe ativo ao item clicado e remova dos
-// demais itens caso eles possuam a mesma. Previna
-// o comportamento padrão desses links
-const links = document.querySelectorAll('a[href^="#"]');
+// Duplique o menu e adicione ele em copy
+const menu = document.querySelector('.menu')
+const copy = document.querySelector('.footer')
 
-links.forEach((link) => {
-  link.addEventListener("click", handleClick);
-});
-function handleClick(event) {
-  this.classList.toggle("ativo");
-  event.preventDefault();
-}
-
-// Selecione todos os elementos do site começando a partir do body,
-// ao clique mostre exatamente quais elementos estão sendo clicados
-const todosElementos = document.querySelectorAll('body')
-
-todosElementos.forEach((elemento) => {
-    elemento.addEventListener('click', mostrarElemento)
-})
-
-function mostrarElemento(elemento) {
-    elemento.target.remove()
-
-}
-// Utilizando o código anterior, ao invés de mostrar no console,
-// remova o elemento que está sendo clicado, o método remove() remove um elemento
+const cloneMenu = menu.cloneNode(true)
 
 
+copy.appendChild(cloneMenu)
+// Selecione o primeiro DT da dl de Faq
+const dl = document.querySelector('dl')
 
-// Se o usuário clicar na tecla (t), aumente todo o texto do site.
-const textos = document.querySelectorAll('*')
+const primeiroDT = dl.querySelector('dt')
+console.log(primeiroDT)
 
+// Selecione o DD referente ao primeiro DT
+console.log(primeiroDT.nextElementSibling)
+// Substitua o conteúdo html de .faq pelo de .animais
 
-textos.forEach((texto) => {
-    texto.addEventListener('keydown', handleKeyboard)
-})
+const faq = document.querySelector('.faq')
+const animais = document.querySelector('.animais')
+const animaisConteudo = document.querySelector('.animais-descricao')
 
-function handleKeyboard(event) {
-    if(event.key === 't') {
-        this.classList.toggle('textogrande')
-    }
-}
+faq.innerHTML = animaisConteudo.innerHTML;
