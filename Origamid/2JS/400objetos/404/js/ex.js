@@ -44,14 +44,14 @@ const transacoes = [
         valorTotalrecibo += valorAtualrecibo;
     }
 })
-console.log(`O valor total das taxas são R$${valorTotaltaxa}`)
-console.log(`O valor total dos recibos são R$${valorTotalrecibo}`)
+console.log(`O valor total das taxas são R$${valorTotaltaxa}`);
+console.log(`O valor total dos recibos são R$${valorTotalrecibo}`);
 
   // Retorne uma array com a lista abaixo
   const transportes = 'Carro;Avião;Trem;Ônibus;Bicicleta';
 
-  transportesArray = transportes.split(';')
-  console.log(transportesArray)
+  transportesArray = transportes.split(';');
+  console.log(transportesArray);
   
   // Substitua todos os span's por a's
   const html = `<ul>
@@ -59,11 +59,14 @@ console.log(`O valor total dos recibos são R$${valorTotalrecibo}`)
                   <li><span>Produtos</span></li>
                   <li><span>Contato</span></li>
                 </ul>`;
+    const newHtml = html.replaceAll('span', 'a');
+
+    console.log(newHtml);
   
   // Retorne o último caracter da frase
   const frase = 'Melhor do ano!';
 
-  console.log(frase[frase.length - 1])
+  console.log(frase[frase.length - 1]);
   
   // Retorne o total de taxas
   const transacoes2 = ['Taxa do Banco', '   TAXA DO PÃO', '  taxa do mercado', 'depósito Bancário', 'TARIFA especial'];
@@ -75,8 +78,8 @@ console.log(`O valor total dos recibos são R$${valorTotalrecibo}`)
     if(transacaoIf.includes('tax')) {
         ++contagemDetaxas;
     }
-  })
+  });
   
-  console.log(`O total de taxas é ${contagemDetaxas}`)
+  console.log(`O total de taxas é ${contagemDetaxas}`);
   
   
