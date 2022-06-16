@@ -24,28 +24,28 @@ const transacoes = [
     },
   ];
   
-  let valorTotaltaxa = 0;
-  let valorAtualtaxa = 0;
+  let totalTaxa = 0;
+  let atualTaxa = 0;
 
-  let valorTotalrecibo = 0;
-  let valorAtualrecibo = 0;
+  let totalRecibo = 0;
+  let atualRecibo = 0;
 
   transacoes.forEach((transacao) => {
     if(transacao.descricao.startsWith('Taxa')) {
-        valorAtualtaxa = transacao.valor;
-        valorAtualtaxa = valorAtualtaxa.replace('R$', '').trim();
-        valorAtualtaxa = Number(valorAtualtaxa);
-        valorTotaltaxa += valorAtualtaxa;
+        atualTaxa = transacao.valor;
+        atualTaxa = atualTaxa.replace('R$', '').trim();
+        atualTaxa = Number(atualTaxa);
+        totalTaxa += atualTaxa;
 
     } else if(transacao.descricao.startsWith('Recebimento')) {
-        valorAtualrecibo = transacao.valor;
-        valorAtualrecibo = valorAtualrecibo.replace('R$', '').trim();
-        valorAtualrecibo = Number(valorAtualrecibo);
-        valorTotalrecibo += valorAtualrecibo;
+        atualRecibo = transacao.valor;
+        atualRecibo = atualRecibo.replace('R$', '').trim();
+        atualRecibo = Number(atualRecibo);
+        totalRecibo += atualRecibo;
     }
 })
-console.log(`O valor total das taxas são R$${valorTotaltaxa}`);
-console.log(`O valor total dos recibos são R$${valorTotalrecibo}`);
+console.log(`O valor total das taxas são R$${totalTaxa}`);
+console.log(`O valor total dos recibos são R$${totalRecibo}`);
 
   // Retorne uma array com a lista abaixo
   const transportes = 'Carro;Avião;Trem;Ônibus;Bicicleta';
