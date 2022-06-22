@@ -65,6 +65,30 @@ const novaArray = carros.push('Parati', 'Gol');
 // console.log(carros)
 
 
-console.log(['item1', 'item2', 'item3', 'item4', 'item5'].copyWithin(2, 0, 2));
+// console.log(['item1', 'item2', 'item3', 'item4', 'item5'].copyWithin(2, 0, 2));
 
-console.log(['item1', 'item2', 'item3', 'item4', 'item5'].fill('Banana', 0, 2)); 
+// console.log(['item1', 'item2', 'item3', 'item4', 'item5'].fill('Banana', 0, 2)); 
+
+const transporte1 = ['Barco', 'Aviao'];
+const transporte2 = ['Carro', 'Moto'];
+
+const transportes = [].concat(transporte1, transporte2, 'Jetski', 'Triciclo');
+
+console.log(transportes);
+
+const linguagens = ['html', 'css', 'js', 'php', 'python', 'js'];
+
+const cloneLinguagens = linguagens.slice();
+
+linguagens.includes('css'); // true
+linguagens.includes('ruby'); // false
+linguagens.indexOf('python'); // 4
+linguagens.indexOf('js'); // 2
+linguagens.lastIndexOf('js'); // 5
+
+
+let htmlString = '<h2>Título Principal</h2>';
+htmlString = htmlString.split('h2')
+htmlString = htmlString.join('h1')
+
+console.log(htmlString)
