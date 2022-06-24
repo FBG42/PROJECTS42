@@ -5,8 +5,11 @@ const comidas = ['Pizza', 'Frango', 'Carne', 'Macarrão'];
 // Adicione 'Arroz' ao final da array
 // Adicione 'Peixe' e 'Batata' ao início da array
 
-const firstItem = comidas.slice(0,1);
-const lastItem = comidas.slice(comidas.length - 1 );
+
+// const firstItem = comidas.slice(0,1);
+// const lastItem = comidas.slice(comidas.length - 1 );
+const primeiroValor = comidas.shift();
+const ultimoValor = comidas.pop();
 
 
 comidas.unshift('Peixe', 'Batata');
