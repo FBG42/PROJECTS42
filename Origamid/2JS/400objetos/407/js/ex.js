@@ -43,7 +43,7 @@ cursos.forEach((curso) => {
   })
 });
 console.log(cursosObj);
-
+//
 
 
 
@@ -70,7 +70,11 @@ const isTrue = instrumentos.some((instrumento) => {
 });
 
 console.log(isTrue)
+//
 
+
+
+//
 // Retorne o valor total das compras
 const compras = [
   {
@@ -93,5 +97,15 @@ const compras = [
     item: 'Quejo',
     preco: 'R$ 10,60'
   }
-]
-;
+];
+
+let total = 0;
+
+compras.forEach((compra) => {
+  let nmrLimpo;
+  nmrLimpo = +compra.preco.replace('R$ ', '').replace(',', '.');
+  total += nmrLimpo;
+  console.log(compra.preco, nmrLimpo, total);
+});
+
+console.log(`O preço total das compras foi R$${total}`)
