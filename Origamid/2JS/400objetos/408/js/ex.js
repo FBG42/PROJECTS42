@@ -17,16 +17,18 @@ console.log(total);
 // tag, classe e conteudo.
 
 function retorno(tag, classe, conteudo) {
-    element = `<${tag} class="${classe}">${conteudo}</${tag}>`
-    return element
+   const elemento = document.createElement(tag);
+   classe ? elemento.classList.add(classe) : null;
+   conteudo ? elemento.innerHTML = conteudo : null;
+    return elemento
 }
-console.log(retorno('p', 'teste', "blablalba"));
+console.log(retorno('p', 'teste', "blablabla"));
 
 // Crie uma nova função utilizando a anterior como base
 // essa nova função deverá sempre criar h1 com a
 // classe titulo. Porém o parâmetro conteudo continuará dinâmico
 
-const base = retorno.bind(null, 'h1', 'teste')
+const base = retorno.bind(null, 'h1', 'teste');
 
-console.log(base('finalizado'))
+console.log(base('finalizado'));
 //
