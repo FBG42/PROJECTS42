@@ -1,0 +1,23 @@
+/* Pagína */
+@import url(./1global.css);
+
+@import url(./2header.css);
+
+@import url(./3animais.css);
+
+@import url(./4faq.css);
+
+@import url(./5contatoANDfooter.css);
+
+@import url(./6media.css);
+/* ----- */
+
+/* Utilitaríos */
+@import url(./util/modal.css);
+
+@import url(./util/tooltip.css);
+
+@import url(./util/dropdown-menu.css);
+
+@import url(./util/menu-mobile.css);
+/* ----- */
