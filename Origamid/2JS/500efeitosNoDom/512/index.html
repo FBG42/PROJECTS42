@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form name="contato" id="contato">
+        <label for="nome">Nome</label>
+        <input type="text" name="nome" id="nome" required>
+        <span class="erro"></span>
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" required>
+        <span class="erro"></span>
+        <label for="mensagem">Mensagem</label>
+        <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+
+        <select name="color" id="color">
+            <option value="blue">azul</option>
+            <option value="red">vermelho</option>
+        </select>
+
+        <input type="color">
+        <input type="date">
+        <input type="number">
+        <input type="range">
+        <input type="password">
+
+        <input type="radio" value="identidade" id="identidade" name="igual">
+        <label for="identidade">Possui identidade?</label>
+        <input type="radio" value="casado" id="casado" name="igual">
+        <label for="casado">Casado?</label>
+        <input type="checkbox" value="fome" id="fome">
+        <label for="fome">Fome?</label>
+    </form>
+    <span class="texto"></span>
+    <script src="./script.js"></script>
+</body>
+
+</html>
