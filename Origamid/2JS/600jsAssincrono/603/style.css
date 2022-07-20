@@ -1,0 +1,7 @@
+body {
+  background: blue;
+}
+
+div + div {
+  margin-top: 60px;
+}
