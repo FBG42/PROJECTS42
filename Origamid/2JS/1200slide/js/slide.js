@@ -51,7 +51,7 @@ export default class Slide {
   }
 
   changeSlideOnEnd() {
-    if (this.dist.movement > 80 && this.index.next !== undefined) {
+    if (this.dist.movement > 120 && this.index.next !== undefined) {
       this.activeNextSlide();
     } else if (this.dist.movement < -120 && this.index.prev !== undefined) {
       this.activePrevSlide();
