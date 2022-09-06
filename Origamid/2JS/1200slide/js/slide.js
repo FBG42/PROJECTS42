@@ -1,8 +1,8 @@
 export default class Slide {
   constructor(slide, wrapper) {
-    this.slide = document.querySelector(slide)
+    this.slide = document.querySelector(slide);
     this.wrapper = document.querySelector(wrapper);
-    this.dist = { finalPosition: 0, startX: 0, movement: 0 }
+    this.dist = { finalPosition: 0, startX: 0, movement: 0 };
   }
 
   transition(active) {
@@ -74,6 +74,7 @@ export default class Slide {
 
   slidePosition(slide) {
     const margin = (this.wrapper.offsetWidth - slide.offsetWidth) / 2;
+    console.log(-(slide.offsetLeft - margin));
     return -(slide.offsetLeft - margin);
   }
 
@@ -109,8 +110,8 @@ export default class Slide {
   }
 
   init() {
-    this.bindEvents();
     this.transition(true);
+    this.bindEvents();
     this.addSlideEvents();
     this.slidesConfig();
     return this;
