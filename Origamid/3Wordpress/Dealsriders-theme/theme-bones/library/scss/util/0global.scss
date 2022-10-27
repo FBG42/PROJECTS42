@@ -1,0 +1,51 @@
+$color_1: #111111;
+$color_2: inherit;
+$font-family_1: "Merriweather", "Roboto Slab";
+
+body {
+	margin: 0px;
+	color: $color_1;
+	font-family: $font-family_1;
+	box-sizing: border-box;
+}
+h1 {
+	margin: 0px;
+}
+h2 {
+	margin: 0px;
+}
+h3 {
+	margin: 0px;
+}
+h4 {
+	margin: 0px;
+}
+h5 {
+	margin: 0px;
+}
+p {
+	margin: 0px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+blockquote {
+	margin: 0px;
+}
+dd {
+	margin: 0px;
+}
+a {
+	text-decoration: none;
+	color: $color_2;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+img[src$=".jpg"] {
+	border-radius: 4px;
+}

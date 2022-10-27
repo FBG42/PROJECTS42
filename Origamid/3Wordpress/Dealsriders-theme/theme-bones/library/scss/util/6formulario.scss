@@ -1,0 +1,71 @@
+$color_1: var(--cor-12);
+$background-color_1: var(--cor-0);
+$border-color_1: var(--escuro1);
+
+.form {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 20px;
+	label {
+		display: block;
+		font: 400 1rem/1.5 "roboto slab", serif;
+		color: $color_1;
+		margin-bottom: 4px;
+	}
+	.col-2 {
+		grid-column: span 2;
+	}
+	input[type="text"] {
+		font: 400 1rem/1.5 "roboto slab", serif;
+		background: var(--cor-1);
+		border: 1px solid var(--cor-2);
+		padding: 12px;
+		border-radius: 4px;
+		width: 100%;
+		box-sizing: border-box;
+		&:focus {
+			outline: none;
+			border-color: $border-color_1;
+			background-color: $background-color_1;
+			box-shadow: 0 0 0 1px var(--clara2);
+		}
+	}
+	input[type="email"] {
+		font: 400 1rem/1.5 "roboto slab", serif;
+		background: var(--cor-1);
+		border: 1px solid var(--cor-2);
+		padding: 12px;
+		border-radius: 4px;
+		width: 100%;
+		box-sizing: border-box;
+		&:focus {
+			outline: none;
+			border-color: $border-color_1;
+			background-color: $background-color_1;
+			box-shadow: 0 0 0 1px var(--clara2);
+		}
+	}
+	textarea {
+		font: 400 1rem/1.5 "roboto slab", serif;
+		background: var(--cor-1);
+		border: 1px solid var(--cor-2);
+		padding: 12px;
+		border-radius: 4px;
+		width: 100%;
+		box-sizing: border-box;
+		&:focus {
+			outline: none;
+			border-color: $border-color_1;
+			background-color: $background-color_1;
+			box-shadow: 0 0 0 1px var(--clara2);
+		}
+	}
+}
+@media (max-width:600px) {
+	.form {
+		grid-template-columns: 1fr;
+		.col-2 {
+			grid-column: 1;
+		}
+	}
+}
