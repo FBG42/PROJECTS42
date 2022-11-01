@@ -9,7 +9,7 @@
       <div class="introducao-conteudo">
         <h1 class="font-1-xxl cor-0 fadeInDown" data-anime="300">Motocicletas customizadas<span class="escuro3">.</span></h1>
         <p class="font-2-l cor-5 fadeInDown" data-anime="600">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para você. <br> Explore o mundo na sua velocidade com a Bikcraft.</p>
-        <a class="btn-escuro fadeInDown" href="./motocicletas.html" data-anime="900">Escolha a sua</a>
+        <a class="btn-escuro fadeInDown" href="<?php echo get_home_url(); ?>/motocicletas" data-anime="900">Escolha a sua</a>
       </div>
       <picture class="fadeInDown" data-anime="1200">
         <source media="(max-width: 800px)" srcset="<?php echo get_template_directory_uri(); ?>/library/imgs/index/GoldenHearts.jpg">
@@ -25,7 +25,7 @@
 
     <ul class="lista-motos">
       <li>
-        <a href="./motocicletas/nightmare.html">
+        <a href="<?php echo get_home_url(); ?>/nightmare">
           <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/nightmare-index.jpg" width="460" height="520" alt="Motocicleta Preta Nightmare">
           <h3 class="font-1-xl">Nightmare</h3>
           <span class="font-2-m">R$ 55.942</span>
@@ -33,7 +33,7 @@
       </li>
 
       <li>
-        <a href="./motocicletas/goldenheart.html">
+        <a href="<?php echo get_home_url(); ?>/golden-fat">
           <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/golden-index.jpg" width="460" height="520" alt="Motocicleta Preta Golden Heart's">
           <h3 class="font-1-xl">Golden Fat</h3>
           <span class="font-2-m">R$ 84.420</span>
@@ -41,7 +41,7 @@
       </li>
 
       <li>
-        <a href="./motocicletas/oldchill.html">
+        <a href="<?php echo get_home_url(); ?>/old-chill">
           <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/old-index.jpg" width="460" height="520" alt="Motocicleta Laranja Old Chill">
           <h3 class="font-1-xl">Old Chill</h3>
           <span class="font-2-m">R$ 95.742</span>
@@ -57,7 +57,7 @@
           <span class="font-2-l-b cor-5 ">tecnologia avançada</span>
           <h2 class="font-1-xxl cor-0">você escolhe os detalhes<span class="clara2">.</span></h2>
           <p class="font-2-l cor-5">Cada motocicleta será única e possui a sua identidade que você pode escolher. Os detalhes você deseja e nós realizamos, dando assim uma assinatura pessoal para sua moto. Assim descrevendo a cor e detalhes que deseja nos orçamentos.</p>
-          <a href="motocicletas.html" class="link">ESCOLHA UM MODELO</a>
+          <a href="<?php echo get_home_url(); ?>/motocicletas" class="link">ESCOLHA UM MODELO</a>
         </div>
         <div class="tecnologia-flex">
           <div class="tecnologia-vantagem">
@@ -122,7 +122,7 @@
           <li>Suporte 08h às 18h</li>
           <li>Cobertura estadual</li>
         </ul>
-        <a href="./orcamento.html" class="btn-escuro silver">Inscreva-se</a>
+        <a href="<?php echo get_home_url(); ?>/orcamento" class="btn-escuro silver">Inscreva-se</a>
       </div>
 
       <div class="seguros-item">
@@ -137,7 +137,7 @@
           <li>Desconto em parceiros</li>
           <li>Acesso ao Clube Riders on the Storm</li>
         </ul>
-        <a href="./orcamento.html" class="btn-claro">Inscreva-se</a>
+        <a href="<?php echo get_home_url(); ?>/orcamento" class="btn-claro">Inscreva-se</a>
       </div>
     </div>
   </article>

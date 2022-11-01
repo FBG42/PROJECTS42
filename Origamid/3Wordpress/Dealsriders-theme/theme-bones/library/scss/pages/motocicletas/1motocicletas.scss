@@ -1,0 +1,142 @@
+.motocicletas {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+ 
+   gap: 40px;
+ 
+   padding-top: 60px;
+   padding-bottom: 60px;
+
+   .motocicletas-img {
+      display: grid;
+    
+      grid-template-columns: 1fr;
+
+      span {
+         border-radius: 6px 0 0 6px;
+       
+         display: block;
+       
+         background-color: var(--cor-12);
+       
+         padding: 8px 16px 8px 8px;
+         margin-top: 10px;
+       
+         grid-area: 1/1;
+       
+         place-self: start end;
+       }
+
+       img {
+         grid-area: 1/1 ;
+       }
+    }
+
+    .motocicletas-conteudo {
+      display: grid;
+      grid-template-columns: 1fr auto;
+    
+      align-content: start;
+
+      h2, p {
+         grid-column: 1 / -1;
+      }
+
+      h2 {
+         margin-bottom: 20px;
+
+         &::before {
+            content: "";
+            display: block;
+          
+            width: 12px;
+            height: 8px;
+          
+            background-color: var(--escuro2);
+            margin-bottom: 8px;
+          }
+       }
+
+       p {
+         margin-bottom: 32px;
+       }
+
+       ul {
+         display: grid;
+         gap: 10px;
+
+         li {
+            display: flex;
+            align-items: center;
+
+            img {
+               width: 24px;
+               height: 24px;
+             
+               margin-right: 8px;
+             }
+          }
+       }
+
+
+       a {
+         place-self: end;
+       }
+    }
+    
+ }
+ 
+
+ .motocicletas-bg {
+   background: linear-gradient(
+      to right,
+      var(--cor-0) 27%,
+      var(--cor-11) 0%
+   );
+
+   .motocicletas-conteudo {
+      h2 {
+         &::before {
+            background-color: #ffbf00;
+          }
+      }
+   }
+ }
+
+
+@media (max-width:800px) {
+   .motocicletas {
+      grid-template-columns: 1fr;
+
+      padding-bottom: 40px;
+      padding-top: 40px;
+
+      .motocicletas-img {
+         max-width: max-content;
+       }
+   }
+
+   .motocicletas-bg {
+      background: var(--cor-11);
+   }
+}
+
+@media (max-width: 600px) {
+   .motocicletas {
+      .motocicletas-conteudo {
+         grid-template-columns: 1fr;
+
+         ul {
+            font-size: 0.8rem;
+        
+            grid-template-columns: 1fr 1fr;
+        
+            margin-bottom: 32px;
+          }
+
+          a {
+            place-self: center;
+          }
+      }
+   }
+}

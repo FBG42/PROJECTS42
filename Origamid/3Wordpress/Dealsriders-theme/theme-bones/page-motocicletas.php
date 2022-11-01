@@ -14,7 +14,7 @@
 
         <div class="motocicletas container">
             <div class="motocicletas-img">
-                <img src="./imgs/bikes/Black.jpg" width="560" height="340" alt="Motocicleta Nightmare">
+                <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/bikes/Black.jpg" width="560" height="340" alt="Motocicleta Nightmare">
                 <span class="font-2-m cor-0">R$ 55.942</span>
             </div>
 
@@ -26,23 +26,23 @@
 
                 <ul class="font-1-m cor-8">
                     <li>
-                        <img src="./imgs/icones/laranjas/motor.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/motor.svg" alt="" width="24" height="24">
                         Motor Milwaukee-Eight™ 114
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/carbono.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/carbono.svg" alt="" width="24" height="24">
                         Acabamento cromado
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/velocidade.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/velocidade.svg" alt="" width="24" height="24">
                         242 km/h
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/rastreador.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/rastreador.svg" alt="" width="24" height="24">
                         Rastreador
                     </li>
                 </ul>
-                <a href="./motocicletas/nightmare.html" class="btn-escuro seta">mais sobre</a>
+                <a href="<?php echo get_home_url(); ?>/nightmare" class="btn-escuro seta">mais sobre</a>
             </div>
         </div>
 
@@ -50,7 +50,7 @@
         <div class="motocicletas-bg">
             <div class="motocicletas container">
                 <div class="motocicletas-img">
-                    <img src="./imgs/bikes/Golden.jpg" width="560" height="340" alt="Motocicleta Golden Fat">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/bikes/Golden.jpg" width="560" height="340" alt="Motocicleta Golden Fat">
                     <span class="font-2-m cor-0">R$ 84.420</span>
                 </div>
 
@@ -62,23 +62,23 @@
 
                     <ul class="font-1-m cor-5">
                         <li>
-                            <img src="./imgs/icones/amarelos/motor.svg" alt="" width="24" height="24">
+                            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/motor.svg" alt="" width="24" height="24">
                             Motor Milwaukee-Eight™ 114
                         </li>
                         <li>
-                            <img src="./imgs/icones/amarelos/carbono.svg" alt="" width="24" height="24">
+                            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/carbono.svg" alt="" width="24" height="24">
                             Acabamento cromado
                         </li>
                         <li>
-                            <img src="./imgs/icones/amarelos/velocidade.svg" alt="" width="24" height="24">
+                            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/velocidade.svg" alt="" width="24" height="24">
                             242 km/h
                         </li>
                         <li>
-                            <img src="./imgs/icones/amarelos/rastreador.svg" alt="" width="24" height="24">
+                            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/rastreador.svg" alt="" width="24" height="24">
                             Rastreador
                         </li>
                     </ul>
-                    <a href="/motocicletas/goldenfat.html" class="btn-claro seta">mais sobre</a>
+                    <a href="<?php echo get_home_url(); ?>/golden-fat" class="btn-claro seta">mais sobre</a>
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
 
         <div class="motocicletas container">
             <div class="motocicletas-img">
-                <img src="./imgs/bikes/Old.jpg" width="560" height="340" alt="Motocicleta Nightmare">
+                <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/bikes/Old.jpg" width="560" height="340" alt="Motocicleta Nightmare">
                 <span class="font-2-m cor-0">R$ 95.742</span>
             </div>
 
@@ -98,23 +98,23 @@
 
                 <ul class="font-1-m cor-8">
                     <li>
-                        <img src="./imgs/icones/laranjas/motor.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/motor.svg" alt="" width="24" height="24">
                         Motor Milwaukee-Eight™ 114
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/carbono.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/carbono.svg" alt="" width="24" height="24">
                         Acabamento cromado
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/velocidade.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/velocidade.svg" alt="" width="24" height="24">
                         342 km/h
                     </li>
                     <li>
-                        <img src="./imgs/icones/laranjas/rastreador.svg" alt="" width="24" height="24">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/rastreador.svg" alt="" width="24" height="24">
                         Rastreador
                     </li>
                 </ul>
-                <a href="./motocicletas/oldchill.html" class="btn-escuro seta"> mais sobre</a>
+                <a href="<?php echo get_home_url(); ?>/old-chill" class="btn-escuro seta"> mais sobre</a>
             </div>
         </div>
 

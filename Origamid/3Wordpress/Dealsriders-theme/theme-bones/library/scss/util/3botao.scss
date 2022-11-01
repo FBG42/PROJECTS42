@@ -17,6 +17,7 @@ $background-color_1: currentColor;
 	max-width: max-content;
 	border: none;
 	cursor: pointer;
+	white-space: nowrap;
 	&:hover {
 		background: linear-gradient(#e64b37 0%, #a53117 100%);
 	}
@@ -41,6 +42,7 @@ $background-color_1: currentColor;
 	max-height: max-content;
 	border: none;
 	cursor: pointer;
+	white-space: nowrap;
 	&:hover {
 		background: linear-gradient(#e4b320, #af7809);
 	}
@@ -55,7 +57,7 @@ $background-color_1: currentColor;
 		width: 18px;
 		height: 10px;
 		margin-left: 12px;
-		background: url("./imgs/icones/laranjas/seta.svg");
+		background: url("../imgs/icones/laranjas/seta.svg");
 		transition: transform 0.2s;
 	}
 	&:hover {
@@ -73,7 +75,7 @@ $background-color_1: currentColor;
 		width: 18px;
 		height: 10px;
 		margin-left: 12px;
-		background: url("./imgs/icones/amarelos/seta.svg");
+		background: url("../imgs/icones/amarelos/seta.svg");
 		transition: transform 0.2s;
 	}
 	&:hover {

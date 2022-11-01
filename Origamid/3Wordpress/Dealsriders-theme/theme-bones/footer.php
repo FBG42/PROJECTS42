@@ -31,10 +31,10 @@
 
         <nav>
           <ul class="font-2-m cor-5">
-            <li><a href="./motocicletas.html">Motocicletas</a></li>
-            <li><a href="./seguros.html">Seguros</a></li>
-            <li><a href="./contato.html">Contato</a></li>
-            <li><a href="./termos.html">Termos e Condições</a></li>
+            <li><a href="<?php echo get_home_url(); ?>/motocicletas">Motocicletas</a></li>
+            <li><a href="<?php echo get_home_url(); ?>/seguros">Seguros</a></li>
+            <li><a href="<?php echo get_home_url(); ?>/contato">Contato</a></li>
+            <li><a href="<?php echo get_home_url(); ?>/termos">Termos e Condições</a></li>
           </ul>
         </nav>
       </div>
