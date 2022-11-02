@@ -42,24 +42,25 @@ http://thesassway.com/advanced/modular-css-naming-conventions
 	@import './pages/home/5depoimento';
 
 	// MOTOCICLETAS
-	@import './pages/motocicletas/1motocicletas.scss';
-	@import './pages/motocicletas/2motocicleta.scss';
-	@import './pages/motocicletas/3seguro.scss';
+	@import './pages/motocicletas/1motocicletas';
+	@import './pages/motocicletas/2motocicleta';
+	@import './pages/motocicletas/3seguro';
 
 	// CONTATO
-	@import './pages/contato/1contato.scss';
-	@import './pages/contato/2lojas.scss';
+	@import './pages/contato/1contato';
+	@import './pages/contato/2lojas';
 
 	// SEGUROS
-	@import './pages/seguros/1seguros.scss';
-	@import './pages/seguros/2vantagens.scss';
-	@import './pages/seguros/3perguntas.scss';
+	@import './pages/seguros/1seguros';
+	@import './pages/seguros/2vantagens';
+	@import './pages/seguros/3perguntas';
 
 	// ORÇAMENTO
-	@import './pages/orcamento/1orcamento.scss';
+	@import './pages/orcamento/1orcamento';
+	@import './pages/orcamento/2termos';
 
 	// TERMOS
-	@import './pages/termos/1termos.scss';
+	@import './pages/termos/1termos';
 
 /*****************************************************************/ 
 

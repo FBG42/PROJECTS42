@@ -22,7 +22,7 @@
             <div class="motocicleta-conteudo">
                 <p class="font-2-l cor-5">Uma devoradora de ruas com fome de potência. Motocicleta certa para renegados em busca da última palavra em potência e desempenho.</p>
                 <div class="motocicleta-comprar">
-                    <a href="../orcamento.html?tipo=motocicleta&produto=nightmare" class="btn-claro"> comprar agora</a>
+                    <a href="<?php echo get_home_url(); ?>/orcamento?tipo=motocicleta&produto=nightmare" class="btn-claro"> comprar agora</a>
                     <span class="font-1-xs cor-6"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/entrega.svg" alt=""> entrega em 5 dias</span>
                     <span class="font-1-xs cor-6"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/estoque.svg" alt="">42 em estoque</span>
                 </div>
@@ -60,7 +60,7 @@
 
         <ul class="lista-motos">
             <li>
-                <a href="./goldenheart.html">
+                <a href="<?php echo get_home_url(); ?>/golden-fat">
                     <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Golden.jpg" width="560" height="340" alt="Motocicleta preta Golden Fat">
                     <h3 class="font-1-xl">Golden Fat</h3>
                     <span class="font-2-m">R$ 84.420</span>
@@ -69,7 +69,7 @@
 
 
             <li>
-                <a href="./oldchill.html">
+                <a href="<?php echo get_home_url(); ?>/old-chill">
                     <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Old.jpg" width="560" height="340" alt="Motocicleta Laranja Old Chill">
                     <h3 class="font-1-xl">Old Chill</h3>
                     <span class="font-2-m">R$ 95.742</span>
@@ -86,7 +86,7 @@
             <div class="seguro-conteudo">
                 <h2 class="font-1-xxl cor-0">Ande mais tranquilo com o nosso <span class="clara2">seguro.</span></h2>
                 <p class="font-2-l cor-5">Inscreva-se em um dos planos do nosso seguro e aproveite diversos benefícios.</p>
-                <a href="../seguros.html" class="btn-claro">Conheça mais</a>
+                <a href="<?php echo get_home_url(); ?>/seguros" class="btn-claro">Conheça mais</a>
             </div>
         </div>
     </article>

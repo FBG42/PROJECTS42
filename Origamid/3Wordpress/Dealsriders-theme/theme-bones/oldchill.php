@@ -22,7 +22,7 @@
             <div class="motocicleta-conteudo">
                 <p class="font-2-l cor-5">A motocicleta certa para os mavericks que desejam sair da linha, estilo esportivo massivo e intenso.</p>
                 <div class="motocicleta-comprar">
-                    <a href="<?php echo get_home_url(); ?>/orcamento.html?tipo=motocicleta&produto=old" class="btn-claro"> comprar agora</a>
+                    <a href="<?php echo get_home_url(); ?>/orcamento?tipo=motocicleta&produto=old" class="btn-claro"> comprar agora</a>
                     <span class="font-1-xs cor-6"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/entrega.svg" alt=""> entrega em 5 dias</span>
                     <span class="font-1-xs cor-6"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/estoque.svg" alt="">42 em estoque</span>
                 </div>
@@ -69,7 +69,7 @@
 
 
             <li>
-                <a href="<?php echo get_home_url(); ?>/goldenheart">
+                <a href="<?php echo get_home_url(); ?>/golden-fat">
                     <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Golden.jpg" width="560" height="340" alt="Motocicleta Preta Golde Heart's">
                     <h3 class="font-1-xl">Golden Fat</h3>
                     <span class="font-2-m">R$ 84.420</span>

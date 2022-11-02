@@ -3,6 +3,7 @@
 <?php get_header(); ?>
 
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+<div class="page-contato">
     <main>
         <div class="titulo-bg">
             <div class="titulo container">
@@ -26,14 +27,14 @@
                     <a href="tel:+552199999999">+55 21 9999-9999</a>
                 </address>
                 <div class="contato-redes">
-                    <a href="./">
-                        <img src="./imgs/icones/laranjas/instagram.svg" alt="">
+                    <a href="<?php echo get_home_url(); ?>/">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/instagram.svg" alt="">
                     </a>
-                    <a href="./">
-                        <img src="./imgs/icones/laranjas/facebook.svg" alt="">
+                    <a href="<?php echo get_home_url(); ?>/">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/facebook.svg" alt="">
                     </a>
-                    <a href="./">
-                        <img src="./imgs/icones/laranjas/youtube.svg" alt="">
+                    <a href="<?php echo get_home_url(); ?>/">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/youtube.svg" alt="">
                     </a>
                 </div>
             </section>
@@ -65,7 +66,7 @@
     <article class="loja container">
         <h2 class="font-1-xxl">Lojas locais<span class="escuro2">.</span></h2>
         <div class="loja-item">
-            <img src="./imgs/lojas/RJ.jpg" alt="mapa marcando o endereço em Rua Quinto dos inferno, 42 - Botafogo - RJ">
+            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/lojas/RJ.jpg" alt="mapa marcando o endereço em Rua Quinto dos inferno, 42 - Botafogo - RJ">
             <div class="loja-conteudo">
                 <h3 class="font-1-xl">Rio de Janeiro</h3>
                 <div class="loja-dados font-2-s cor-8">
@@ -76,12 +77,12 @@
                     <a href="mailto:rj@dealsriders.com">rj@dealsriders.com</a>
                     <a href="tel:+552199999999">+55 21 9999-9999</a>
                 </div>
-                <p class="loja-tempo font-2-s"> <img src="./imgs/icones/laranjas/horario.svg" alt="">08-18h de seg à dom</p>
+                <p class="loja-tempo font-2-s"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/horario.svg" alt="">08-18h de seg à dom</p>
             </div>
         </div>
 
         <div class="loja-item">
-            <img src="./imgs/lojas/SP.jpg" alt="mapa marcando o endereço em Rua sem criatividade, 42 - Republica - SP">
+            <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/lojas/SP.jpg" alt="mapa marcando o endereço em Rua sem criatividade, 42 - Republica - SP">
             <div class="loja-conteudo">
                 <h3 class="font-1-xl">São Paulo</h3>
                 <div class="loja-dados font-2-s cor-8">
@@ -92,11 +93,11 @@
                     <a href="mailto:sp@dealsriders.com">sp@dealsriders.com</a>
                     <a href="tel:+551199999999">+55 11 9999-9999</a>
                 </div>
-                <p class="loja-tempo font-2-s"> <img src="./imgs/icones/laranjas/horario.svg" alt="">08-18h de seg à dom</p>
+                <p class="loja-tempo font-2-s"> <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/horario.svg" alt="">08-18h de seg à dom</p>
             </div>
         </div>
     </article>
-
+</div>
 
 <?php endwhile; else: endif ?>
 <?php get_footer(); ?>

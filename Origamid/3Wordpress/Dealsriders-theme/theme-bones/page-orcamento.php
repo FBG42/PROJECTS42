@@ -3,6 +3,7 @@
 <?php get_header(); ?>
 
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+<div class="page-orcamento">
     <main>
         <div class="titulo-bg">
             <div class="titulo container">
@@ -29,36 +30,36 @@
                     <label for="golden">Golden Fat <span>R$ 84.420 </span></label>
                     <div class="orcamento-detalhes">
                         <ul class="font-1-xs cor-8">
-                            <li><img src="./imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
-                            <li><img src="./imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
-                            <li><img src="./imgs/icones/laranjas/velocidade.svg" alt="Motor ">242 km/h</li>
-                            <li><img src="./imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/velocidade.svg" alt="Motor ">242 km/h</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
                         </ul>
-                        <img src="./imgs/index/lista/Golden.jpg" alt="Motocicleta Preta com detalhes em dourado">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Golden.jpg" alt="Motocicleta Preta com detalhes em dourado">
                     </div>
 
                     <input type="radio" name="produto" value="nightmare" id="nightmare">
                     <label for="nightmare">Nightmare <span>R$ 55.942</span></label>
                     <div class="orcamento-detalhes">
                         <ul class="font-1-xs cor-8">
-                            <li><img src="./imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
-                            <li><img src="./imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
-                            <li><img src="./imgs/icones/laranjas/velocidade.svg" alt="Motor ">242 km/h</li>
-                            <li><img src="./imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/velocidade.svg" alt="Motor ">242 km/h</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
                         </ul>
-                        <img src="./imgs/index/lista/Black.jpg" alt="Motocicleta Preta">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Black.jpg" alt="Motocicleta Preta">
                     </div>
 
                     <input type="radio" name="produto" value="old" id="old">
                     <label for="old">Old Chill <span>R$ 95.742</span></label>
                     <div class="orcamento-detalhes">
                         <ul class="font-1-xs cor-8">
-                            <li><img src="./imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
-                            <li><img src="./imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
-                            <li><img src="./imgs/icones/laranjas/velocidade.svg" alt="Motor ">342 km/h</li>
-                            <li><img src="./imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/motor.svg" alt="Motor ">Milwaukee-Eight</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/carbono.svg" alt="Motor ">Cromado</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/velocidade.svg" alt="Motor ">342 km/h</li>
+                            <li><img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/laranjas/rastreador.svg" alt="Motor ">Rastrador</li>
                         </ul>
-                        <img src="./imgs/index/lista/Old.jpg" alt="Motocicleta Laranja">
+                        <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Old.jpg" alt="Motocicleta Laranja">
                     </div>
 
                 </div>
@@ -133,13 +134,13 @@
 
                 <div class="col-2 termos-form">
                     <input type="radio" id="termo" name="termo">
-                    <label for="termos">Li e aceito os <a href="./termos.html"> Termos e Condições</a>.</label>
+                    <label for="termos">Li e aceito os <a href="<?php echo get_home_url(); ?>/termos"> Termos e Condições</a>.</label>
                 </div>
 
                 <button class="btn-escuro col-2">Solicitar orçamento</button>
             </div>
         </form>
     </main>
-
+</div>
 <?php endwhile; else: endif ?>
 <?php get_footer(); ?>

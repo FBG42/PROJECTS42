@@ -13,8 +13,6 @@
 
 
         <div class="seguros container">
-
-
             <div class="seguros-item fadeInLeft" data-anime="600">
                 <h3 class="font-1-xl cor-6">SILVER</h3>
                 <span class="font-1-xl cor-0">R$240 <span class="font-1-xs cor-6">mensal</span></span>
@@ -25,7 +23,7 @@
                     <li>Suporte 08h às 18h</li>
                     <li>Cobertura estadual</li>
                 </ul>
-                <a href="./orcamento.html?tipo=seguro&produto=silver" class="btn-escuro silver">Inscreva-se</a>
+                <a href="<?php echo get_home_url(); ?>/orcamento?tipo=seguro&produto=silver" class="btn-escuro silver">Inscreva-se</a>
             </div>
 
             <div class="seguros-item fadeInRight" data-anime="900">
@@ -40,7 +38,7 @@
                     <li>Desconto em parceiros</li>
                     <li>Acesso ao Clube Riders on the Storm</li>
                 </ul>
-                <a href="./orcamento.html?tipo=seguro&produto=gold" class="btn-claro">Inscreva-se</a>
+                <a href="<?php echo get_home_url(); ?>/orcamento?tipo=seguro&produto=gold" class="btn-claro">Inscreva-se</a>
             </div>
         </div>
 
@@ -53,32 +51,32 @@
 
             <ul>
                 <li>
-                    <img src="./imgs/icones/amarelos/motor.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/motor.svg" alt="">
                     <h3 class="font-1-l cor-0">Revisões</h3>
                     <p class="font-2-s cor-5">Garantimos o reparo completo caso ocorra algum problema inesperado, sabemos como é importante para sua segurança revisões constantes.</p>
                 </li>
                 <li>
-                    <img src="./imgs/icones/amarelos/carbono.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/carbono.svg" alt="">
                     <h3 class="font-1-l cor-0">Pintura</h3>
                     <p class="font-2-s cor-5">Caso ocorra algum imprevisto com a sua pintura, não se preocupe o seguro cobre batidas e arranhões.</p>
                 </li>
                 <li>
-                    <img src="./imgs/icones/amarelos/sustentavel.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/sustentavel.svg" alt="">
                     <h3 class="font-1-l cor-0">Sustentável</h3>
                     <p class="font-2-s cor-5">Trabalhamos com a filosofia de desperdício zero. Qualquer parte defeituosa é reciclada e reutilizada em outro projeto.</p>
                 </li>
                 <li>
-                    <img src="./imgs/icones/amarelos/rastreador.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/rastreador.svg" alt="">
                     <h3 class="font-1-l cor-0">Recuperação</h3>
                     <p class="font-2-s cor-5">Para você poder dormir melhor, temos um GPS acoplado em sua moto, que funciona 24h por dia e em todo território nacional.</p>
                 </li>
                 <li>
-                    <img src="./imgs/icones/amarelos/seguro.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/seguro.svg" alt="">
                     <h3 class="font-1-l cor-0">Segurança</h3>
                     <p class="font-2-s cor-5">Junto do painel principal vem um sistema anti-furto que não permite clonagem do chip de sua chave, garantindo sua segurança.</p>
                 </li>
                 <li>
-                    <img src="./imgs/icones/amarelos/velocidade.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/icones/amarelos/velocidade.svg" alt="">
                     <h3 class="font-1-l cor-0">Rapidez</h3>
                     <p class="font-2-s cor-5"> A liberdade que necessitavamos está na segurança e agilizade, cada moto nossa tem 159 cavalos de potência.</p>
                 </li>

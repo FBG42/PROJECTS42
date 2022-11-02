@@ -69,7 +69,7 @@
 
 
             <li>
-                <a href="<?php echo get_home_url(); ?>/oldchill">
+                <a href="<?php echo get_home_url(); ?>/old-chill">
                     <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/index/lista/Old.jpg" width="560" height="340" alt="Motocicleta Laranja Old Chill">
                     <h3 class="font-1-xl">Old Chill</h3>
                     <span class="font-2-m">R$ 95.742</span>
