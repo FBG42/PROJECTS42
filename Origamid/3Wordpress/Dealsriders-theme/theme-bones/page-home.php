@@ -7,8 +7,10 @@
   <main class="introducao-bg">
     <div class="introducao container">
       <div class="introducao-conteudo">
-        <h1 class="font-1-xxl cor-0 fadeInDown" data-anime="300">Motocicletas customizadas<span class="escuro3">.</span></h1>
-        <p class="font-2-l cor-5 fadeInDown" data-anime="600">Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para você. <br> Explore o mundo na sua velocidade com a Bikcraft.</p>
+        <h1 class="font-1-xxl cor-0 fadeInDown" data-anime="300"><?php the_field('titulo_introducao') ?><span class="escuro3">.</span></h1>
+        <!-- Motocicletas customizadas -->
+        <p class="font-2-l cor-5 fadeInDown" data-anime="600"><?php the_field('texto_introducao') ?></p>
+        <!-- Bicicletas elétricas de alta precisão e qualidade, feitas sob medida para você. <br> Explore o mundo na sua velocidade com a Bikcraft. -->
         <a class="btn-escuro fadeInDown" href="<?php echo get_home_url(); ?>/motocicletas" data-anime="900">Escolha a sua</a>
       </div>
       <picture class="fadeInDown" data-anime="1200">

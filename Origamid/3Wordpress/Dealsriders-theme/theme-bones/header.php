@@ -31,7 +31,7 @@
   <header class="header-bg">
     <div class="header container">
       <div>
-        <a href="">
+        <a href="<?php echo get_home_url(); ?>">
           <img src="<?php echo get_template_directory_uri(); ?>/library/imgs/logos/Logo.svg" alt="Deals Riders" width="355" height="111">
         </a>
       </div>
