@@ -244,4 +244,24 @@ function bones_fonts() {
 
 add_action('wp_enqueue_scripts', 'bones_fonts');
 
+
+add_action( 'init', 'lc_register_movie_post_type' );
+
+function lc_register_movie_post_type() {
+  // Set various pieces of text, $labels is used inside the $args array
+  $labels = array(
+     'name' => _x( 'Seguros', 'post type general name' ),
+     'singular_name' => _x( 'Seguros', 'post type singular name' ),
+  );
+
+  // Set various pieces of information about the post type
+  $args = array(
+    'labels' => $labels,
+    'description' => 'My custom post type',
+    'public' => true,
+  );
+  // Register the movie post type with all the information contained in the $arguments array
+  register_post_type( 'seguro_mensal', $args );
+}
+
 /* DON'T DELETE THIS CLOSING TAG */ ?>
