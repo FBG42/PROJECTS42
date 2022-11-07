@@ -110,39 +110,7 @@
     </div>
   </section>
 
-  <article class="seguros-bg">
-    <div class="seguros container">
-      <h2 class="font-1-xxl cor-0">seguros<span class="clara2">.</span></h2>
-
-      <div class="seguros-item">
-        <h3 class="font-1-xl cor-6">SILVER</h3>
-        <span class="font-1-xl cor-0">R$240 <span class="font-1-xs cor-6">mensal</span></span>
-
-        <ul class="font-2-m cor-0">
-          <li>Revisões a semestrais</li>
-          <li>Assistência técnica</li>
-          <li>Suporte 08h às 18h</li>
-          <li>Cobertura estadual</li>
-        </ul>
-        <a href="<?php echo get_home_url(); ?>/orcamento" class="btn-escuro silver">Inscreva-se</a>
-      </div>
-
-      <div class="seguros-item">
-        <h3 class="font-1-xl clara3">GOLD</h3>
-        <span class="font-1-xl cor-0">R$420 <span class="font-1-xs cor-6">mensal</span></span>
-
-        <ul class="font-2-m cor-0">
-          <li>Revisões a cada 2 meses</li>
-          <li>Assistência especial</li>
-          <li>Suporte 24h</li>
-          <li>Cobertura nacional</li>
-          <li>Desconto em parceiros</li>
-          <li>Acesso ao Clube Riders on the Storm</li>
-        </ul>
-        <a href="<?php echo get_home_url(); ?>/orcamento" class="btn-claro">Inscreva-se</a>
-      </div>
-    </div>
-  </article>
+  <?php include("ctn-seguros.php") ?>
 
 <?php endwhile; else: endif ?>
 
