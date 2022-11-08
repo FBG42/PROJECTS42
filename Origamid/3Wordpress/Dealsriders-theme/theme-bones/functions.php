@@ -1,4 +1,21 @@
 <?php
+
+// Função para registrar os Scripts
+
+function dealsriders_scripts() {
+  wp_register_script('simple-slide', get_template_directory_uri() . "/library/js/plugins/simple-anime.js", array(), false, true);
+  wp_register_script('script', get_template_directory_uri() . "/library/js/scripts.js", array('simple-slide'), false, true);
+  wp_enqueue_script('script');
+}
+add_action('wp_enqueue_scripts', 'dealsriders_scripts');
+
+
+function dealsriders_styles() {
+  wp_register_style('dealsrider_style', get_template_directory_uri() . 'library/css/style.css', array(), false, false);
+
+  wp_enqueue_style('dealsrider_style');
+}
+add_action('wp_enqueue_scripts', 'dealsriders_styles');
 /*
 Author: Eddie Machado
 URL: http://themble.com/bones/
@@ -245,6 +262,7 @@ function bones_fonts() {
 add_action('wp_enqueue_scripts', 'bones_fonts');
 
 
+//-----------------------------------------------
 add_action( 'init', 'lc_register_movie_post_type' );
 
 function lc_register_movie_post_type() {
@@ -264,4 +282,57 @@ function lc_register_movie_post_type() {
   register_post_type( 'seguro_mensal', $args );
 }
 
+
+// --------------------------------------
+// Custom Post Type
+// function custom_post_type_produtos() {
+// 	register_post_type('produtos', array(
+// 		'label' => 'Produtos',
+// 		'description' => 'Produtos',
+// 		'public' => true,
+// 		'show_ui' => true,
+// 		'show_in_menu' => true,
+// 		'capability_type' => 'post',
+// 		'map_meta_cap' => true,
+// 		'hierarchical' => false,
+// 		'rewrite' => array('slug' => 'produtos', 'with_front' => true),
+// 		'query_var' => true,
+// 		'supports' => array('title', 'editor', 'page-attributes','post-formats'),
+
+// 		'labels' => array (
+// 			'name' => 'Produtos',
+// 			'singular_name' => 'Produto',
+// 			'menu_name' => 'Produtos',
+// 			'add_new' => 'Adicionar Novo',
+// 			'add_new_item' => 'Adicionar Novo Produto',
+// 			'edit' => 'Editar',
+// 			'edit_item' => 'Editar Produto',
+// 			'new_item' => 'Novo Produto',
+// 			'view' => 'Ver Produto',
+// 			'view_item' => 'Ver Produto',
+// 			'search_items' => 'Procurar Produtos',
+// 			'not_found' => 'Nenhum Produto Encontrado',
+// 			'not_found_in_trash' => 'Nenhum Produto Encontrado no Lixo',
+// 		)
+// 	));
+// }
+// add_action('init', 'custom_post_type_produtos');
+
+
+// --------------------------------
+// if ( have_posts() ) : while ( have_posts() ) : the_post(); 
+//   $args = array (
+//     'post_type' => 'produtos',
+//     'order'   => 'ASC'
+//   );
+//   $the_query = new WP_Query ( $args );
+//
+
+//if ( $the_query->have_posts() ) : while ( $the_query->have_posts() ) : $the_query->the_post();
+// Aqui dentro irá os produtos ou a unidade do "post" criado
+// endwhile; else: endif;
+// wp_reset_query(); wp_reset_postdata();
+
+// endwhile; else: endif;
+//--------------------------------
 /* DON'T DELETE THIS CLOSING TAG */ ?>

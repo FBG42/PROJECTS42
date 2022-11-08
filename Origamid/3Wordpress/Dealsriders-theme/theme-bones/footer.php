@@ -42,8 +42,8 @@
     </address>
   </footer>
   
-  <script src="<?php echo get_template_directory_uri(); ?>/library/js/plugins/simple-anime.js"></script>
-  <script src="<?php echo get_template_directory_uri(); ?>/library/js/script.js" defer></script>
+  <!-- <script src="<?php echo get_template_directory_uri(); ?>/library/js/plugins/simple-anime.js"></script>
+  <script src="<?php echo get_template_directory_uri(); ?>/library/js/script.js" defer></script> -->
 
   <!-- Init Wordpress footer -->
   <?php wp_footer(); ?>

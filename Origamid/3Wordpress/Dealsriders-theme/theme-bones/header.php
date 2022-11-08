@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-  <title>Deals Riders | Motocicletas Custom</title>
-  <meta name="description" content="Motocicletas customizadas com detalhes a pedido dos clientes, tenha a liberdade de
-  explorar o mundo em seu estilo..">
-
+  <title><?php wp_title('-'); ?> <?php the_field('title_seo') ?></title>
+  <meta property="og:title" content="<?php wp_title('-'); ?> <?php the_field('title_seo') ?>">
+  <meta name="og:description" content="<?php wp_title('-'); ?> <?php the_field('description_seo') ?>">
+  <meta name="og:url" content="<?php bloginfo('url'); ?>">
 
   <link rel="icon" href="<?php echo get_template_directory_uri(); ?>/favicon.svg" type="image/svg+xml">
-  <link href="<?php echo get_template_directory(); ?>/library/css/style.css" rel="preload" as="style">
-  <link href="<?php echo get_template_directory(); ?>/library/css/style.css" rel="stylesheet">
+  <!-- <link href="<?php echo get_template_directory(); ?>/library/css/style.css" rel="preload" as="style">
+  <link href="<?php echo get_template_directory(); ?>/library/css/style.css" rel="stylesheet"> -->
 
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
