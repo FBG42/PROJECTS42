@@ -49,12 +49,14 @@ def incluir_editar_contato(contato, telefone, email, endereco):
       'email': email,
       'endereco': endereco,
    }
+   salvar()
    print(f"\n>>>> Contato {contato} foi adicionado/editado com sucesso\n")
 
 
 def excluir_contato(contato):
    try:
       AGENDA.pop(contato)
+      salvar()
       print(f"\n>>>> Contato {contato} excluido com sucesso\n")
    except KeyError:
       print("\nContato inexistente\n")
@@ -63,10 +65,9 @@ def excluir_contato(contato):
       print(error)
 
 
-def exportar_contatos():
+def exportar_contatos(file_name):
    try:
-      with open('agenda.csv', 'w') as file:
-         file.write('nome, telefone, email, endereço\n')
+      with open(file_name, 'w') as file:
          for contato in AGENDA:
             telefone = AGENDA[contato]['telefone']
             email = AGENDA[contato]['email']
@@ -97,6 +98,35 @@ def importar_contatos(file_name):
       print(error)
 
 
+def salvar():
+   exportar_contatos('database.csv')
+
+
+def carregar():
+   try:
+      with open('database.csv', 'r') as file:
+         linhas = file.readlines()
+         for linha in linhas:
+            detalhes = linha.strip().split(',')
+            nome = detalhes[0]
+            telefone = detalhes[1]
+            email = detalhes[2]
+            endereco = detalhes[3]
+
+            AGENDA[nome] = {
+               'telefone': telefone,
+               'email': email,
+               'endereco': endereco,
+            }
+      print('\n>>>> Database carregada com sucesso')
+      print(f'>>>> {len(AGENDA)} contatos carregados\n')
+   except FileNotFoundError:
+      print('\n>>>> Arquivo não encontrado\n')
+   except Exception as error:
+      print('>>>> Algum erro inesperado ocorreu')
+      print(error)
+
+
 def imprimir_menu():
    print('-------------------------------------------')
    print(" 1 - Mostrar todos os contatos da agenda")
@@ -108,6 +138,12 @@ def imprimir_menu():
    print(" 7 - Importar contatos em CSV")
    print(" 0 - Fechar agenda")
    print('-------------------------------------------')
+
+
+# INICIO DO PROGRAMA
+
+carregar()
+
 
 while True:
    imprimir_menu()
@@ -148,7 +184,8 @@ while True:
       excluir_contato(contato)
 
    elif opcao == "6":
-      exportar_contatos()
+      file_name = input('Digite o nome do arquivo a ser exportado: ')
+      exportar_contatos(file_name)
 
    elif opcao == "7":
       file_name = input('Digite o nome do arquivo a ser importado: ')
@@ -161,4 +198,3 @@ while True:
    else:
       print("\n>>>>> Opção inválida.\n")
 
-imprimir_menu()
