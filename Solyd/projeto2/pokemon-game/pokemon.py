@@ -31,6 +31,3 @@ class PokemonAgua(Pokemon):
    def atacar(self, pokemon):
       print(f"{self} lançou um jato d'água em {pokemon}")
 
-
-meu_pokemon = PokemonFogo("charmander")
-print(meu_pokemon)

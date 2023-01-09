@@ -35,6 +35,16 @@ class Pessoa:
       else:
          print(f"{self} não tem nenhum pokemon")
 
+   def escolher_pokemon(self):
+      self.mostrar_pokemons()
+
+   def batalhar(self, pessoa):
+      print(f"{self} iniciou uma batalha com {pessoa}")
+
+      pessoa.mostrar_pokemons()
+      
+      self.escolher_pokemon()
+
 
 class Player(Pessoa):
    tipo = "player"
@@ -53,7 +63,3 @@ class Inimigo(Pessoa):
       super().__init__(nome=nome, pokemons=pokemons)
 
 
-meu_inimigo = Inimigo()
-
-print(meu_inimigo)
-meu_inimigo.mostrar_pokemons()
