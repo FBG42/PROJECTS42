@@ -1,4 +1,5 @@
 import React from "react";
+import Form from "./form/Form";
 
 const Titulo = ({texto, cor, children}) => {
 	return (
@@ -15,6 +16,8 @@ function App() {
 			</Titulo>
 			<Titulo cor="red" texto="Meu titulo 2" />
 			<Titulo texto="Meu titulo 3" /> */}
+
+			<Form />
 		</>
 	);
 }
