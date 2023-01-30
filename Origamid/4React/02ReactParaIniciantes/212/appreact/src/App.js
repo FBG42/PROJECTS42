@@ -6,18 +6,13 @@ function App() {
 	const { pathname } = window.location;
 
 	let Content;
+	pathname === "/" ? Content = Home : Content = Produtos;
 
-	if (pathname === "/") {
-		Content = Home;
-	} 
-	else {
-		Content = Produtos;
-	}
-  return (
-    <>
-	 <Content />
-	 </>
-  );
+	return (
+		<>
+			<Content />
+		</>
+	);
 }
 
 export default App;
