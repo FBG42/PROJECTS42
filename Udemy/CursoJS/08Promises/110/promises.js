@@ -62,4 +62,6 @@ executa();
 
 /* 
  Pending
+ fullfiled
+ rejected
 */
