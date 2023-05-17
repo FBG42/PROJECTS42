@@ -5,7 +5,6 @@ module.exports = {
   },
   extends: ['plugin:react/recommended', 'airbnb', 'prettier'],
   overrides: [],
-  parser: '@babel/eslint-parser',
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
