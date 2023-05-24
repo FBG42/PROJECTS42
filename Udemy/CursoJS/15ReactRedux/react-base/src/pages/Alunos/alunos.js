@@ -7,13 +7,18 @@ import { Container } from '../../styles/GlobalStyles';
 import { AlunoContainer, ProfilePicture } from './styled';
 import axios from '../../services/axios';
 
+import Loading from '../../components/Loading/loading';
+
 export default function Alunos() {
   const [alunos, setAlunos] = useState([]);
+  const [isLoading, setIsloading] = useState(false);
 
   useEffect(() => {
     async function getData() {
+      setIsloading(true);
       const response = await axios.get('/alunos/');
       setAlunos(response.data);
+      setIsloading(false);
     }
 
     getData();
@@ -21,6 +26,8 @@ export default function Alunos() {
 
   return (
     <Container>
+      <Loading isLoading={isLoading} />
+
       <h1>Alunos</h1>
 
       <AlunoContainer>
@@ -37,7 +44,7 @@ export default function Alunos() {
             <span>{aluno.nome}</span>
             <span>{aluno.email}</span>
 
-            <Link to={`/aluno/${aluno.id}`}>
+            <Link to={`/aluno/${aluno.id}/edit`}>
               <FaEdit size={16} />
             </Link>
 
