@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\bin\Debug\net6.0\saidaDeDados.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\refint\saidaDeDados.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\saidaDeDados.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\12primeiroPrograma\saidaDeDados\saidaDeDados\obj\Debug\net6.0\ref\saidaDeDados.dll
