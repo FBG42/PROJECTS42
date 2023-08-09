@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\bin\Debug\net6.0\1004.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\bin\Debug\net6.0\1004.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\bin\Debug\net6.0\1004.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\bin\Debug\net6.0\1004.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\bin\Debug\net6.0\1004.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\refint\1004.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\1004.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\23exerciciosPropostos\1004\1004\obj\Debug\net6.0\ref\1004.dll

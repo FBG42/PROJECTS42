@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\bin\Debug\net6.0\primeiroProblema.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\bin\Debug\net6.0\primeiroProblema.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\bin\Debug\net6.0\primeiroProblema.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\bin\Debug\net6.0\primeiroProblema.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\bin\Debug\net6.0\primeiroProblema.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\refint\primeiroProblema.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\primeiroProblema.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\03estruturaSequencial\22primeiroExercicioDoURI\primeiroProblema\primeiroProblema\obj\Debug\net6.0\ref\primeiroProblema.dll
