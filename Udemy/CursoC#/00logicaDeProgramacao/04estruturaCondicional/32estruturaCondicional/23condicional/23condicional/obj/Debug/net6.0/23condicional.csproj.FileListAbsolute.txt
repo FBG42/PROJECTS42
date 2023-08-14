@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\bin\Debug\net6.0\23condicional.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\bin\Debug\net6.0\23condicional.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\bin\Debug\net6.0\23condicional.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\bin\Debug\net6.0\23condicional.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\bin\Debug\net6.0\23condicional.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\refint\23condicional.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\23condicional.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\23condicional\23condicional\obj\Debug\net6.0\ref\23condicional.dll

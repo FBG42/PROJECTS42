@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\bin\Debug\net6.0\1048.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\bin\Debug\net6.0\1048.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\bin\Debug\net6.0\1048.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\bin\Debug\net6.0\1048.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\bin\Debug\net6.0\1048.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\refint\1048.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\1048.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\04estruturaCondicional\32estruturaCondicional\Exercicios\1048\1048\obj\Debug\net6.0\ref\1048.dll
