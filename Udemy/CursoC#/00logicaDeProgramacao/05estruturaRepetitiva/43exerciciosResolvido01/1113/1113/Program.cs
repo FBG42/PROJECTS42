@@ -20,7 +20,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
                 else
                 {
-                    Console.WriteLine("Descrecente");
+                    Console.WriteLine("Decrescente");
                 }
                 vet = Console.ReadLine().Split(' ');
                 x = int.Parse(vet[0]);

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvidos01\\1113\\1113\\1113.csproj",
+      "projectUniqueName": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvido01\\1113\\1113\\1113.csproj",
       "projectName": "1113",
-      "projectPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvidos01\\1113\\1113\\1113.csproj",
+      "projectPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvido01\\1113\\1113\\1113.csproj",
       "packagesPath": "C:\\Users\\fbg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvidos01\\1113\\1113\\obj\\",
+      "outputPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\00logicaDeProgramacao\\05estruturaRepetitiva\\43exerciciosResolvido01\\1113\\1113\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

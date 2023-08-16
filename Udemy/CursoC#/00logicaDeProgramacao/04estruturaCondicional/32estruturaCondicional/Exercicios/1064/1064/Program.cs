@@ -33,7 +33,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             media /= totalDePositivios;
 
             Console.WriteLine(totalDePositivios + " valores positivos");
-            Console.WriteLine(media);
+            Console.WriteLine(media.ToString("F1"));
         }
     }
 }
