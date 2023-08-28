@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\bin\Debug\net6.0\problema2.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\bin\Debug\net6.0\problema2.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\bin\Debug\net6.0\problema2.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\bin\Debug\net6.0\problema2.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\bin\Debug\net6.0\problema2.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\refint\problema2.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\problema2.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\46membrosEstaticos\problema2\problema2\obj\Debug\net6.0\ref\problema2.dll
