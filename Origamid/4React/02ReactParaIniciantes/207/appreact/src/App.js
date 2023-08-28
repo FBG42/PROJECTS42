@@ -33,17 +33,17 @@ const App = () => {
   const dados = mario;
 
   const total = dados.compras
-  .map(item => +item.preco.replace("R$ ", ""))
-  .reduce((acumulador, atual) => acumulador + atual, 0);
+    .map(item => +item.preco.replace("R$ ", ""))
+    .reduce((acumulador, atual) => acumulador + atual, 0);
 
   return (
-  <div>
-    <p>Nome: {dados.cliente}</p>
-    <p>Idade: {dados.idade}</p>
-    <p> Situação: <span style={{ color: dados.ativa ? "green" : "red"}}>{dados.ativa ? "Ativo" : "Inativo"}</span></p>
-    <p>Total gasto: R$ {total}</p>
-    {total > 10000 && <p>Você está gastando muito.</p>}
-  </div>
+    <div>
+      <p>Nome: {dados.cliente}</p>
+      <p>Idade: {dados.idade}</p>
+      <p> Situação: <span style={{ color: dados.ativa ? "green" : "red" }}>{dados.ativa ? "Ativo" : "Inativo"}</span></p>
+      <p>Total gasto: R$ {total}</p>
+      {total > 10000 && <p>Você está gastando muito.</p>}
+    </div>
   );
 };
 

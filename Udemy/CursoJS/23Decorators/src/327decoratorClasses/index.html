@@ -1,0 +1,19 @@
+<!-- Certifique-se de incluir o jQuery antes deste script -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+  $(document).ready(function() {
+    $("#container")
+      .find("p")
+      .css("color", "blue")
+      .hover(function() {
+        console.log("Mensagem exibida no hover!");
+      });
+  });
+</script>
+
+<div id="container">
+  <p>Parágrafo 1</p>
+  <p>Parágrafo 2</p>
+  <p>Parágrafo 3</p>
+</div>
