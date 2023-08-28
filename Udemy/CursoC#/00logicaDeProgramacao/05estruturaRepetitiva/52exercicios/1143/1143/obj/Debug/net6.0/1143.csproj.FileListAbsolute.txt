@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\bin\Debug\net6.0\1143.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\bin\Debug\net6.0\1143.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\bin\Debug\net6.0\1143.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\bin\Debug\net6.0\1143.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\bin\Debug\net6.0\1143.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\refint\1143.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\1143.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\52exercicios\1143\1143\obj\Debug\net6.0\ref\1143.dll

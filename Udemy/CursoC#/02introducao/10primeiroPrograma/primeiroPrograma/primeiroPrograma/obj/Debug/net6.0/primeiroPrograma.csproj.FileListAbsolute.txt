@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\refint\primeiroPrograma.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\02introducao\10primeiroPrograma\primeiroPrograma\primeiroPrograma\obj\Debug\net6.0\ref\primeiroPrograma.dll

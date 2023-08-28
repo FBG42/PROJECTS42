@@ -1,0 +1,4 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\39comOrientacao\resolvendoProblemaComOrientacao\resolvendoProblemaComOrientacao\obj\Debug\net6.0\resolvendoProblemaComOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\39comOrientacao\resolvendoProblemaComOrientacao\resolvendoProblemaComOrientacao\obj\Debug\net6.0\resolvendoProblemaComOrientacao.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\39comOrientacao\resolvendoProblemaComOrientacao\resolvendoProblemaComOrientacao\obj\Debug\net6.0\resolvendoProblemaComOrientacao.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\04classes\39comOrientacao\resolvendoProblemaComOrientacao\resolvendoProblemaComOrientacao\obj\Debug\net6.0\resolvendoProblemaComOrientacao.csproj.CoreCompileInputs.cache

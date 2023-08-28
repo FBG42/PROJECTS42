@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\bin\Debug\net6.0\funcoes.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\bin\Debug\net6.0\funcoes.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\bin\Debug\net6.0\funcoes.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\bin\Debug\net6.0\funcoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\bin\Debug\net6.0\funcoes.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\refint\funcoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\funcoes.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\03recapitulandoLogica\30funcoes\funcoes\funcoes\obj\Debug\net6.0\ref\funcoes.dll

@@ -1,0 +1,15 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\bin\Debug\net6.0\facaEnquanto.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\bin\Debug\net6.0\facaEnquanto.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\bin\Debug\net6.0\facaEnquanto.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\bin\Debug\net6.0\facaEnquanto.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\bin\Debug\net6.0\facaEnquanto.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.csproj.AssemblyReference.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\refint\facaEnquanto.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\facaEnquanto.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\00logicaDeProgramacao\05estruturaRepetitiva\51facaEnquanto\facaEnquanto\facaEnquanto\obj\Debug\net6.0\ref\facaEnquanto.dll
