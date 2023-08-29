@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\bin\Debug\net6.0\referencia.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\bin\Debug\net6.0\referencia.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\bin\Debug\net6.0\referencia.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\bin\Debug\net6.0\referencia.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\bin\Debug\net6.0\referencia.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\refint\referencia.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\referencia.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\66referencia\referencia\referencia\obj\Debug\net6.0\ref\referencia.dll
