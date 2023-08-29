@@ -1,0 +1,24 @@
+import { useState } from 'react';
+import './App.css'
+
+function App() {
+
+  const [ativo, setAtivo] = useState(false);
+  const [dados, setDados] = useState({nome: 'Fabrício', idade: 21,})
+
+  function handleClick() {
+    setAtivo(!ativo)
+    setDados({...dados, faculdade: "Possui Faculdade" });
+  }
+
+  return (
+    <div>
+      <p>{dados.nome}</p>
+      <p>{dados.idade}</p>
+      <p>{dados.faculdade}</p>
+      <button onClick={handleClick}>{ativo ? "Ativo" : "Inativo"}</button>
+    </div>
+  )
+}
+
+export default App
