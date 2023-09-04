@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\bin\Debug\net6.0\modificadores.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\bin\Debug\net6.0\modificadores.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\bin\Debug\net6.0\modificadores.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\bin\Debug\net6.0\modificadores.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\bin\Debug\net6.0\modificadores.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\refint\modificadores.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\modificadores.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\06memoria\72modificadores\modificadores\modificadores\obj\Debug\net6.0\ref\modificadores.dll
