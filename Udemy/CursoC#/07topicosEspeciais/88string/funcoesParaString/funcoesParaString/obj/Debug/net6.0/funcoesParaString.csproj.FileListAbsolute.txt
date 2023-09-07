@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\bin\Debug\net6.0\funcoesParaString.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\bin\Debug\net6.0\funcoesParaString.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\bin\Debug\net6.0\funcoesParaString.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\bin\Debug\net6.0\funcoesParaString.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\bin\Debug\net6.0\funcoesParaString.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\refint\funcoesParaString.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\funcoesParaString.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\88string\funcoesParaString\funcoesParaString\obj\Debug\net6.0\ref\funcoesParaString.dll

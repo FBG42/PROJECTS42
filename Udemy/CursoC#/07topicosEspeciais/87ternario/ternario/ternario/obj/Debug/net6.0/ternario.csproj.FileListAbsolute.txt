@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\bin\Debug\net6.0\ternario.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\bin\Debug\net6.0\ternario.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\bin\Debug\net6.0\ternario.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\bin\Debug\net6.0\ternario.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\bin\Debug\net6.0\ternario.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\refint\ternario.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ternario.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\87ternario\ternario\ternario\obj\Debug\net6.0\ref\ternario.dll

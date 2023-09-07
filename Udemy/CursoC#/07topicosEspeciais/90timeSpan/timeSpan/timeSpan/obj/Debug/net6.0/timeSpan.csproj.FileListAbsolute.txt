@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\bin\Debug\net6.0\timeSpan.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\bin\Debug\net6.0\timeSpan.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\bin\Debug\net6.0\timeSpan.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\bin\Debug\net6.0\timeSpan.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\bin\Debug\net6.0\timeSpan.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\refint\timeSpan.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\timeSpan.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\90timeSpan\timeSpan\timeSpan\obj\Debug\net6.0\ref\timeSpan.dll
