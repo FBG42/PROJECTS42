@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\bin\Debug\net6.0\sobreposicao.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\bin\Debug\net6.0\sobreposicao.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\bin\Debug\net6.0\sobreposicao.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\bin\Debug\net6.0\sobreposicao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\bin\Debug\net6.0\sobreposicao.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\refint\sobreposicao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\sobreposicao.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\137sobreposicao\sobreposicao\sobreposicao\obj\Debug\net6.0\ref\sobreposicao.dll
