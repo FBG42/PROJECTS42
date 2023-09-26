@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\bin\Debug\net6.0\excecao.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\bin\Debug\net6.0\excecao.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\bin\Debug\net6.0\excecao.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\bin\Debug\net6.0\excecao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\bin\Debug\net6.0\excecao.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\refint\excecao.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\excecao.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\154solucaoCorreta\excecao\excecao\obj\Debug\net6.0\ref\excecao.dll

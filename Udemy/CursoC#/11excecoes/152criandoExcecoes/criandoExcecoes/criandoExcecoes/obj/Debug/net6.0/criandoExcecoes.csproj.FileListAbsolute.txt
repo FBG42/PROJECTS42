@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\bin\Debug\net6.0\criandoExcecoes.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\bin\Debug\net6.0\criandoExcecoes.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\bin\Debug\net6.0\criandoExcecoes.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\bin\Debug\net6.0\criandoExcecoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\bin\Debug\net6.0\criandoExcecoes.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\refint\criandoExcecoes.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\criandoExcecoes.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\11excecoes\152criandoExcecoes\criandoExcecoes\criandoExcecoes\obj\Debug\net6.0\ref\criandoExcecoes.dll
