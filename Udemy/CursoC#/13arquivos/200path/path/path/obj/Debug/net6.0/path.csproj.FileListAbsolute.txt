@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\bin\Debug\net6.0\path.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\bin\Debug\net6.0\path.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\bin\Debug\net6.0\path.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\bin\Debug\net6.0\path.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\bin\Debug\net6.0\path.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\refint\path.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\path.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\200path\path\path\obj\Debug\net6.0\ref\path.dll

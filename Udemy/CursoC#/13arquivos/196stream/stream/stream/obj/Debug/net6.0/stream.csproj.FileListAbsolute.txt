@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\bin\Debug\net6.0\stream.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\bin\Debug\net6.0\stream.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\bin\Debug\net6.0\stream.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\bin\Debug\net6.0\stream.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\bin\Debug\net6.0\stream.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\refint\stream.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\stream.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\196stream\stream\stream\obj\Debug\net6.0\ref\stream.dll
