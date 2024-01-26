@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\bin\Debug\net6.0\arquivos.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\bin\Debug\net6.0\arquivos.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\bin\Debug\net6.0\arquivos.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\bin\Debug\net6.0\arquivos.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\bin\Debug\net6.0\arquivos.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\refint\arquivos.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\arquivos.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\195file\arquivos\arquivos\obj\Debug\net6.0\ref\arquivos.dll

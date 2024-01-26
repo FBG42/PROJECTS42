@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\bin\Debug\net6.0\dateTimeKind.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\bin\Debug\net6.0\dateTimeKind.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\bin\Debug\net6.0\dateTimeKind.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\bin\Debug\net6.0\dateTimeKind.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\bin\Debug\net6.0\dateTimeKind.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\refint\dateTimeKind.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\dateTimeKind.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\07topicosEspeciais\93dateTimeKind\dateTimeKind\dateTimeKind\obj\Debug\net6.0\ref\dateTimeKind.dll

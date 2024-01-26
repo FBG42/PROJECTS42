@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\bin\Debug\net6.0\blocoUsing.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\bin\Debug\net6.0\blocoUsing.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\bin\Debug\net6.0\blocoUsing.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\bin\Debug\net6.0\blocoUsing.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\bin\Debug\net6.0\blocoUsing.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\refint\blocoUsing.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\blocoUsing.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\13arquivos\197using\blocoUsing\blocoUsing\obj\Debug\net6.0\ref\blocoUsing.dll

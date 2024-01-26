@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\bin\Debug\net6.0\exercicio.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\bin\Debug\net6.0\exercicio.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\bin\Debug\net6.0\exercicio.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\bin\Debug\net6.0\exercicio.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\bin\Debug\net6.0\exercicio.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\refint\exercicio.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\exercicio.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\140exercicioResolvido\exercicio\exercicio\obj\Debug\net6.0\ref\exercicio.dll

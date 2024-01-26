@@ -1,0 +1,14 @@
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\bin\Debug\net6.0\abstratas.exe
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\bin\Debug\net6.0\abstratas.deps.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\bin\Debug\net6.0\abstratas.runtimeconfig.json
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\bin\Debug\net6.0\abstratas.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\bin\Debug\net6.0\abstratas.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.AssemblyInfoInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.AssemblyInfo.cs
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.csproj.CoreCompileInputs.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\refint\abstratas.dll
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.pdb
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\abstratas.genruntimeconfig.cache
+C:\Users\fbg\Documents\Dev\Study\dev.study\Udemy\CursoC#\10herancaEPolimorfismo\143abstratas\abstratas\abstratas\obj\Debug\net6.0\ref\abstratas.dll
