@@ -5,7 +5,7 @@ export type typesReturnsOfFetch = {
   data: produtoType[] | null,
   error: object | string | null,
   loading: boolean | null,
-  request: (url: string, options?: object) => Promise<void> | Promise<Response> | Promise<JSON>
+  request: (url: string, options?: object | undefined) => Promise<{ response: Response | undefined; json: JSON | undefined} | void>
 };
 
 const useFetch = () => {
@@ -13,7 +13,7 @@ const useFetch = () => {
   const [error, setError] = React.useState<object | string | null>(null)
   const [loading, setLoading] = React.useState<boolean | null>(null)
 
-  async function request(url: string, options: object | undefined) {
+  const request = React.useCallback(async (url: string, options: object | undefined) => {
     let response;
     let json;
     try {
@@ -32,7 +32,7 @@ const useFetch = () => {
       setLoading(false)
       return {response, json}
     }
-  }
+  }, [])
 
   const returnsOfFetch: typesReturnsOfFetch = {
     data: data || null,
