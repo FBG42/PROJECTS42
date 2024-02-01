@@ -17,7 +17,7 @@ type Props = {
 
 
 export const GlobalStorage = ({ children }: Props) => {
-    const [dados, setDados] = React.useState<ArrayLike<object>  | undefined>(undefined)
+    const [dados, setDados] = React.useState<ArrayLike<object> | undefined>(undefined)
 
     async function fetchDados() {
       try {
