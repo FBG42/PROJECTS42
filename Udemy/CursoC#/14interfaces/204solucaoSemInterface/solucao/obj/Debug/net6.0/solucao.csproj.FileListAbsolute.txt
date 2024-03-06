@@ -1,0 +1,16 @@
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/bin/Debug/net6.0/solucao
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/bin/Debug/net6.0/solucao.deps.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/bin/Debug/net6.0/solucao.runtimeconfig.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/bin/Debug/net6.0/solucao.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/bin/Debug/net6.0/solucao.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.csproj.AssemblyReference.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.GeneratedMSBuildEditorConfig.editorconfig
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.AssemblyInfoInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.AssemblyInfo.cs
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.csproj.CoreCompileInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.sourcelink.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/refint/solucao.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/solucao.genruntimeconfig.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/Debug/net6.0/ref/solucao.dll

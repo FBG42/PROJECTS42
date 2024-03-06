@@ -7,12 +7,13 @@ namespace solucao.services
     public double pricePerHour { get; private set; }
     public double pricePerDay { get; private set; }
 
-    private brazilTaxService _brazilTaxService = new brazilTaxService();
+    private ItaxService _taxService;
 
-    public rentalService(double pricePerHour, double pricePerDay)
+    public rentalService(double pricePerHour, double pricePerDay, ItaxService taxService)
     {
       this.pricePerHour = pricePerHour;
       this.pricePerDay = pricePerDay;
+      this._taxService = taxService;
     }
 
     public void processInvoice(carRental carRental)
@@ -29,7 +30,7 @@ namespace solucao.services
         basicPayment = pricePerDay * Math.Ceiling(duration.TotalDays);
       }
 
-      double tax = _brazilTaxService.tax(basicPayment);
+      double tax = _taxService.tax(basicPayment);
 
       carRental.invoice = new invoice(basicPayment, tax);
     }

@@ -1,6 +1,6 @@
 namespace solucao.services
 {
-  class brazilTaxService
+  class brazilTaxService : ItaxService
   {
     public double tax(double amount) {
       if (amount <= 100.0)

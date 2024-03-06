@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TO/oJ2rBYQalqu43eewmZYom73oE8Dw9fz3WGtBC19SN7NXFKw7mZ4gJqwu9J/FEa8svUo99N9UpgRG0wgKcmg==",
+  "dgSpecHash": "pC+VgI9yjsvmoixH1YNu00D47PwYQRRMlpzbFx2SmM+3/dbXpQj57DA39Wma/BCT7dpwqns+7cNCCCjDRxXq5A==",
   "success": true,
   "projectFilePath": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/solucao.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/fbg/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
