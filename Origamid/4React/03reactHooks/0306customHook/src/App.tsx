@@ -19,8 +19,21 @@ function App() {
   }
 
   React.useEffect(() => {
-     request('https://ranekapi.origamid.dev/json/api/produto/')
-  }, [])
+    const fetchData = async () => {
+      try {
+       const result = await request('https://ranekapi.origamid.dev/json/api/produto/')
+
+       if (result) {
+        const { response, json } = result;
+        console.log(response, json)
+       }
+      } catch(err) {
+        console.error(err)
+      }
+    }
+
+    fetchData()
+  }, [request])
 
   if (error) return <p>{JSON.stringify(error)}</p>
   if (loading) return <p>Carregando...</p>
