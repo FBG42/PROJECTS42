@@ -8,32 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fbg\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\13arquivos\\200path\\exercicio\\exercicio\\exercicio.csproj",
+      "projectUniqueName": "/home/fbg/Documentos/Dev/Study/dev.study/Udemy/CursoC#/13arquivos/200path/exercicio/exercicio/exercicio.csproj",
       "projectName": "exercicio",
-      "projectPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\13arquivos\\200path\\exercicio\\exercicio\\exercicio.csproj",
-      "packagesPath": "C:\\Users\\fbg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\13arquivos\\200path\\exercicio\\exercicio\\obj\\",
+      "projectPath": "/home/fbg/Documentos/Dev/Study/dev.study/Udemy/CursoC#/13arquivos/200path/exercicio/exercicio/exercicio.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/fbg/Documentos/Dev/Study/dev.study/Udemy/CursoC#/13arquivos/200path/exercicio/exercicio/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\fbg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,12 +54,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

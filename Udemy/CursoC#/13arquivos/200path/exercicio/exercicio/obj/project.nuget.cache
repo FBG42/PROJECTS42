@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p+GugNyslr2SdMQejkjFM+g1X6dgfPvMZOEC15ZqgoDlBC2WWYrlw8POQI1UcvAxflGPFJK1HRVp56nv7tN9Rw==",
+  "dgSpecHash": "YyvwezAQ0aSzjKU6cqTMWMASBAJ02bBoWNrSkwHhRh/fPmeIbihxyCbYHLQmN6tEyOibHIdVQ6+XcaYB91plbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fbg\\Documents\\Dev\\Study\\dev.study\\Udemy\\CursoC#\\13arquivos\\200path\\exercicio\\exercicio\\exercicio.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fbg/Documentos/Dev/Study/dev.study/Udemy/CursoC#/13arquivos/200path/exercicio/exercicio/exercicio.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
