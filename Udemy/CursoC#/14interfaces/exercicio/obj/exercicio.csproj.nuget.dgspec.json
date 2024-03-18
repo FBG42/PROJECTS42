@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/solucao.csproj": {}
+    "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/exercicio/exercicio.csproj": {}
   },
   "projects": {
-    "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/solucao.csproj": {
+    "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/exercicio/exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/solucao.csproj",
-        "projectName": "solucao",
-        "projectPath": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/solucao.csproj",
+        "projectUniqueName": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/exercicio/exercicio.csproj",
+        "projectName": "exercicio",
+        "projectPath": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/exercicio/exercicio.csproj",
         "packagesPath": "/home/fbg/.nuget/packages/",
-        "outputPath": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/204solucaoSemInterface/solucao/obj/",
+        "outputPath": "/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/exercicio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/fbg/.nuget/NuGet/NuGet.Config"
