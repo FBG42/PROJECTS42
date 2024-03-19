@@ -1,0 +1,15 @@
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/herdarVScumprir
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/herdarVScumprir.deps.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/herdarVScumprir.runtimeconfig.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/herdarVScumprir.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/ref/herdarVScumprir.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/bin/Debug/net6.0/herdarVScumprir.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.csproj.AssemblyReference.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.GeneratedMSBuildEditorConfig.editorconfig
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.AssemblyInfoInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.AssemblyInfo.cs
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.csproj.CoreCompileInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/ref/herdarVScumprir.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/14interfaces/209herdarVScumprir/obj/Debug/net6.0/herdarVScumprir.genruntimeconfig.cache
