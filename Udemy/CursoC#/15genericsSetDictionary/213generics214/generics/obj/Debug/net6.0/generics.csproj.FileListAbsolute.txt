@@ -1,0 +1,15 @@
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/generics
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/generics.deps.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/generics.runtimeconfig.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/generics.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/ref/generics.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/bin/Debug/net6.0/generics.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.csproj.AssemblyReference.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.GeneratedMSBuildEditorConfig.editorconfig
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.AssemblyInfoInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.AssemblyInfo.cs
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.csproj.CoreCompileInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/ref/generics.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/213generics214/generics/obj/Debug/net6.0/generics.genruntimeconfig.cache
