@@ -7,7 +7,7 @@
             Console.Write("How many values? ");
             int n = int.Parse(Console.ReadLine());
 
-            printService _printService = new printService(n);
+            printService<int> _printService = new printService<int>(n);
 
 
             for (int i = 0; i < n; i++)

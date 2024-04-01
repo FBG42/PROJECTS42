@@ -1,23 +1,23 @@
 namespace generics
 {
-    public class printService<T>
+    public class printServiceOld
     {
-        private T[] _values;
+        private int[] _values;
         private int _count = 0;
 
-        public printService(int length)
+        public printServiceOld(int length)
         {
-            _values = new T[length];
+            _values = new int[length];
         }
 
 
-        public void addValue(T value)
+        public void addValue(int value)
         {
             _values[_count] = value;
             _count++;
         }
 
-        public T first()
+        public int first()
         {
             if (_values.Length == 0) {
                 throw new InvalidOperationException("PrintService is empty");
