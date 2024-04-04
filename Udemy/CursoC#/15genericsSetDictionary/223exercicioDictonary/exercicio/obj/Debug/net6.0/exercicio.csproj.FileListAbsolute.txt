@@ -1,0 +1,15 @@
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/exercicio
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/exercicio.deps.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/exercicio.runtimeconfig.json
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/exercicio.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/ref/exercicio.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/bin/Debug/net6.0/exercicio.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.csproj.AssemblyReference.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.AssemblyInfoInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.AssemblyInfo.cs
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.csproj.CoreCompileInputs.cache
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/ref/exercicio.dll
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.pdb
+/home/fbg/Documents/Dev/Study/dev.study/Udemy/CursoC#/15genericsSetDictionary/223exercicioDictonary/exercicio/obj/Debug/net6.0/exercicio.genruntimeconfig.cache
